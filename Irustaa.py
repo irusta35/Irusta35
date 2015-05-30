@@ -7,3 +7,7 @@ for i in xrange(1, 101):
         print "Buzz"
     else:
         print i
+a
+s
+d
+

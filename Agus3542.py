@@ -7,8 +7,6 @@ for i in xrange(1, 101):
         print "Buzz"
     else:
         print i
-1
-2
-3
-4
+
+
 
